@@ -1,6 +1,6 @@
 ## Recognize named entities on Twitter with LSTMs
 
-Using a recurrent neural networks i.e Bi-Directional Long Short-Term Memory Networks (Bi-LSTMs) to solve Named Entity Recognition (NER) problem. 
+Using Bi-Directional Long Short-Term Memory Networks (Bi-LSTMs) to solve Named Entity Recognition (NER) problem. 
 
 NER is a common task in natural language processing systems. It serves for extraction such entities from the text as persons, organizations, locations, etc. In this task you will experiment to recognize named entities from Twitter.
 
